@@ -7,7 +7,7 @@ Briefly, SegNu classify each detected object in three categories:  single cell n
 Inside the weights folder you must include the weights file, name as "model_weights.h5", generated in the training of the CNN with TensorFlow. This file could be download in:
 https://drive.google.com/open?id=1Giing5bmtw81OXW2yEwxhBs2MC8PIcO-
 
-SegNu was written in Python 3.0, and use the following external modules:
+* SegNu was written in Python 3.0, and use the following external modules:
     - numpy >=1.13.3
     - scikit-learn >= 0.13.0
     - scikit-image >= 0.19.1
