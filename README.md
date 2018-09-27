@@ -15,4 +15,4 @@ SegNu was written in Python 3.0, and use the following external modules:
     - tensorflow >= 1.6
 
 ## Important note:
-This software is distributed in the hope that it will be useful for research use only, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
+This software is distributed in the hope that it will be useful for research use only, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
