@@ -14,5 +14,8 @@ https://drive.google.com/open?id=1Giing5bmtw81OXW2yEwxhBs2MC8PIcO-
     - keras >= 2.1.5
     - tensorflow >= 1.6
 
+## Email contact:
+segnuproject@gmail.com
+
 ## Important note:
 This software is distributed in the hope that it will be useful for research use only, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
