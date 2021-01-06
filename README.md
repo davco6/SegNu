@@ -5,7 +5,7 @@ Briefly, SegNu classify each detected object in three categories:  single cell n
 
 Further information about SegNu could be found in the Master Thesis wrote in spanish:
 
-https://openaccess.uoc.edu/webapps/o2/bitstream/10609/82134/6/davcoTFM0618memoria.pdf
+http://openaccess.uoc.edu/webapps/o2/handle/10609/82134
 
 ## Requirements:
 * Inside the weights folder you must include the weights file, name as "model_weights.h5", generated in the training of the CNN with TensorFlow. This file could be download in:
