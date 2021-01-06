@@ -3,7 +3,7 @@ SegNu is an open-software that automaticaly detects cell nuclei assisted by CNN.
 
 Briefly, SegNu classify each detected object in three categories:  single cell nucleus, non-cell nucleus or cell nuclear aggregate. Afterwards, each cell nuclear aggregate is segmented recursively by watershed segmentation. Due to the fact that the watershed segmentation does not do a precisely segmentation and often get oversegmented images, each group of segmented region is considered as a graph, and each graph is optimized for merging the regions with a single cell nuclei. Eventually, SegNu detect and isolate all cell nuclei at the image.
 
-Further information about SegNu could be found in the Master Thesis wrote in spanish:
+Further information about SegNu can be found in the Master Thesis (wrote in spanish):
 
 http://openaccess.uoc.edu/webapps/o2/handle/10609/82134
 
